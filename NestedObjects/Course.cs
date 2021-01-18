@@ -31,7 +31,7 @@ namespace NestedObjects
         /// <summary>
         /// The Insctructor that teaches the course
         /// </summary>
-        public Instructor CourseInstructore { get; set; }
+        public Instructor CourseInstructor { get; set; }
 
         /// <summary>
         /// All the students currently enrolled in the class
